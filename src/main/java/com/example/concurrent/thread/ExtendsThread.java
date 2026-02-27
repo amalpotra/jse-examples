@@ -1,4 +1,4 @@
-package com.example.thread;
+package com.example.concurrent.thread;
 
 public class ExtendsThread extends Thread {
     @Override

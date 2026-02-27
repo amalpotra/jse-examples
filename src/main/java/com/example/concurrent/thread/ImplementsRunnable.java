@@ -1,4 +1,4 @@
-package com.example.thread;
+package com.example.concurrent.thread;
 
 public class ImplementsRunnable implements Runnable {
     @Override

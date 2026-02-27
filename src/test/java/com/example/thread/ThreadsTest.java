@@ -1,5 +1,8 @@
 package com.example.thread;
 
+import com.example.concurrent.thread.ExtendsThread;
+import com.example.concurrent.thread.ImplementsRunnable;
+import com.example.concurrent.thread.StoppableRunnable;
 import org.junit.jupiter.api.Test;
 
 import static java.lang.Thread.sleep;
