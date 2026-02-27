@@ -7,7 +7,7 @@ Serves as a reference.
 
 You will need:
 
-- JDK 21 or later (might work with earlier versions for some examples).
+- JDK 25 or later (might work with earlier versions for some examples).
 - IDE of your choice like IntelliJ IDEA.
 
 ## Running the Examples
